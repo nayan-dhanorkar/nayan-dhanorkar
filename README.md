@@ -1,47 +1,21 @@
-### Hi there 👋
+# 💫 About Me:
+🔭 I’m currently Studing in RCOEM<br>🌱 I’m currently learning Object Oriented Programming<br>💬 Ask me about Java,C,HTML,CSS<br>
 
-<!--
-**nayan-dhanorkar/nayan-dhanorkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/savita.dhanorkar.140?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nayan_dhanorkar?igsh=MWk0Zmc0Z3FteXlkYQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/nayan-dhanorkar-391517289) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NayanDhanorkar?t=-vuIlEepjs4C2JESCT695g&s=08 ) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Nayan Dhanorkar</h1>
-<h3 align="center">A passionate to explore new things from India</h3>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nayan-dhanorkar&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nayan-dhanorkar&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan-dhanorkar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-dhanorkar&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-dhanorkar" /> </p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayan-dhanorkar" alt="nayan-dhanorkar" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=nayan-dhanorkar&icon=1&color=1)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently Studing in **RCOEM**
-
-- 🌱 I’m currently learning **Object Oriented Programming**
-
-- 💬 Ask me about **Java,C,HTML,CSS**
-
-- 📫 How to reach me **janvi.vijay2020@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/nayan-dhanorkar-391517289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nayan-dhanorkar-391517289" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/savita.dhanorkar.140?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/savita.dhanorkar.140?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nayan_dhanorkar?igsh=mwk0zmc0z3ftexlkyq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nayan_dhanorkar?igsh=mwk0zmc0z3ftexlkyq==" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayan-dhanorkar&show_icons=true&locale=en&layout=compact" alt="nayan-dhanorkar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayan-dhanorkar&show_icons=true&locale=en" alt="nayan-dhanorkar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan-dhanorkar&" alt="nayan-dhanorkar" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
